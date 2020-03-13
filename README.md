@@ -1,8 +1,15 @@
-# P21-2020
-P21 - 2020 para Plataforma 21
+Moodle Mobile 2.x
+=================
 
-Esta App utiliza la versión antigua de MoodleApp y está modificada especialmente para uso en Plataforma 21.
+This is the primary repository of source code for the official Moodle Mobile app version 2.x.
 
-Al momento es está usando adobe pHoneGap builder para generar el APK.
+* [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
+* [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
+* [Development environment setup](http://docs.moodle.org/dev/Setting_up_your_development_environment_for_Moodle_Mobile_2)
+* [Bug Tracker](https://tracker.moodle.org/browse/MOBILE)
+* [Release Notes](http://docs.moodle.org/dev/Moodle_Mobile_Release_Notes)
 
-OJO es para versión antigua de Android
+License
+-------
+
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
